@@ -2,8 +2,8 @@
 
 This script will work like a command-line tool to compare the content of two given texts. The output of the help-command looks like this:
 
-usage: differ.py [-h] [-f STRING [STRING ...]] [-t STRING [STRING ...]]
-                     [-wc INT]
+    usage: differ.py [-h] [-f STRING [STRING ...]] [-t STRING [STRING ...]]
+                          [-wc INT]
 
     diff two texts.
     
