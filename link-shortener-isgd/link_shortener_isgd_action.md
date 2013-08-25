@@ -3,7 +3,7 @@
 
 # The Drafts Action
 
-Here's the code for the action. It assumes that the Python scripts is in Pythonista's Documents folder and the script's title ist *link_shortener_isgd*.
+Here's the code for the action. It assumes that the Python scripts is in Pythonista's Documents folder and the script's title is *link_shortener_isgd*.
 
     pythonista://link_shortener_isgd?action=run&argv=[[draft]]
 	

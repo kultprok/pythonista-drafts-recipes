@@ -3,7 +3,7 @@
 
 # The Drafts Action
 
-Here's the code for the action. It assumes that the Python scripts is in Pythonista's Documents folder and the script's title ist *link_shortener_isgd*.
+Here's the code for the action. It assumes that the Python scripts is in Pythonista's Documents folder and the script's title is *search-and-replace*.
 
     pythonista://search-and-replace?action=run&argv=[[draft]]
 	

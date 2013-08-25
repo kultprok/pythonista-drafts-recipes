@@ -3,7 +3,7 @@
 
 # The Drafts Action
 
-Here's the code for the action. It assumes that the Python scripts is in Pythonista's Documents folder and the script's title ist *string-hashes*.
+Here's the code for the action. It assumes that the Python scripts is in Pythonista's Documents folder and the script's title is *string-hashes*.
 
     pythonista://string-hashes?action=run&argv=[[draft]]
 	
